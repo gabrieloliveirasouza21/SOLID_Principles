@@ -7,4 +7,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="SOLID_Exercises\LiskovPrinciple\" />
+    <Folder Include="SOLID_Exercises\InterfaceSegregationPrinciple\" />
+    <Folder Include="SOLID_Exercises\DepencencyInversionPrinciple\" />
+    <Folder Include="SOLID_Exercises\OpenClosedPrinciple\" />
+  </ItemGroup>
+
 </Project>
